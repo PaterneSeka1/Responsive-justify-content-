@@ -1,0 +1,13 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.premier span{
+    width: 20%;
+}
+.services {
+    font-size: 150px;
+    text-align: center;
+    line-height: 200px;
+    width: 100%;
+    color: #6f5499;
+}
